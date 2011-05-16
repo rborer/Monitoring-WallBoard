@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wallboard:WallboardWindow title="Monitoring Wallboard" maximized="true"
+						   xmlns:bxml="http://pivot.apache.org/bxml"
+						   xmlns:wallboard="com.monitoring.wallboard"
+						   xmlns="org.apache.pivot.wtk">
+	<GridPane bxml:id="grid"
+			  columnCount="1"
+			  styles="{horizontalSpacing:1, verticalSpacing:1, showHorizontalGridLines:true, showVerticalGridLines:true}">
+	</GridPane>
+</wallboard:WallboardWindow>

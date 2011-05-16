@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CardPane
+		xmlns:bxml="http://pivot.apache.org/bxml"
+		xmlns="org.apache.pivot.wtk"
+		styles="{selectionChangeEffect:'HORIZONTAL_SLIDE',selectionChangeDuration:500}">
+
+	<ImageView image="/empty.png"/>
+	<ImageView image="/empty.png"/>
+
+</CardPane>

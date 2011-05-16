@@ -1,0 +1,8 @@
+{
+	"nbColumns": 2,
+	"refreshTime": 60,
+	"graphiteUrls": [
+		"http://pivot.apache.org/images/logo.png",
+		"http://www.elca.ch/sites/elca.ch/files/images/front-page/home_visuals_reliable_en.jpg"
+	]
+}
